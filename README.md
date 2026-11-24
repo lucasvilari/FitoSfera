@@ -2,11 +2,15 @@
 
 Monitoramento inteligente de plantas por área — temperatura, umidade do ar e luminosidade, em qualquer ambiente.
 
+  <img src="assets/readme/logo.png" alt="Logo do FitoSfera" width="220" />
+
 ## Sobre o projeto
 
 Cuidar de plantas costuma ser um palpite: "será que aqui bate sol demais?", "o ar está seco para esta
 espécie?", entre outros. O FitoSfera troca o palpite por dados, lendo as condições do ambiente onde cada planta
 está, comparando com a faixa ideal da espécie e avisa quando algo sai do esperado.
+
+<img src="assets/readme/estante.png" alt="Estante principal do app FitoSfera, com as plantas do jardim e o status de cada uma" width="300" />
 
 Principais recursos:
 
@@ -30,6 +34,33 @@ O app é distribuído **apenas para Android**. A versão web existe somente como
 
 Projeto da disciplina de Engenharia de Software II (ES2) da UFPI, desenvolvido em equipe seguindo uma
 metodologia ágil: histórias de usuário, sprints e Definition of Done.
+
+> [!NOTE]
+> Este repositório é uma **cópia do projeto original**, criado na organização
+> [ES2-UFPI](https://github.com/ES2-UFPI) da disciplina, trazida para cá com o código final, a wiki e a
+> documentação, para que o projeto possa ser estudado e reproduzido.
+> Original: [ES2-UFPI/FitoSfera](https://github.com/ES2-UFPI/FitoSfera)
+
+<details>
+<summary><b>Como esta cópia foi feita</b></summary>
+
+- **Código e histórico**: espelho do Git original (`git clone --mirror`), enviado com todos os commits, autores e
+  datas, além das branches `dev` e `main` e das tags `v0.1.0`, `v0.2.0` e `v1.0.0`.
+- **Wiki**: espelho do repositório Git da wiki (visão geral, módulos, implantação, tutoriais e planejamento),
+  com os links ajustados para este repositório.
+- **Gestão do desenvolvimento** (issues, pull requests, sprints e backlog): continua no
+  [repositório original](https://github.com/ES2-UFPI/FitoSfera).
+
+</details>
+
+### Equipe
+
+| Integrante | GitHub |
+|---|---|
+| Felipe Gabriel | [@Sava8sava](https://github.com/Sava8sava) |
+| Gabriel Araújo | [@Gab-AR](https://github.com/Gab-AR) |
+| Lucas Vilarinho | [@lucasvilari](https://github.com/lucasvilari) |
+| Matheus Carneiro | [@M4th3us78](https://github.com/M4th3us78) |
 
 ## Tecnologias
 
