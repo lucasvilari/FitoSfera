@@ -39,6 +39,22 @@ O app é distribuído **apenas para Android**. A versão web existe somente como
 Projeto da disciplina de Engenharia de Software II (ES2) da UFPI, desenvolvido em equipe seguindo uma
 metodologia ágil: histórias de usuário, sprints e Definition of Done.
 
+> [!NOTE]
+> Este repositório é uma **cópia do projeto original**, criado na organização
+> [ES2-UFPI](https://github.com/ES2-UFPI) da disciplina. O histórico de commits, as branches, as tags e a wiki
+> são os originais. Issues, pull requests e releases foram recriados a partir do original, com a mesma numeração
+> e com a autoria indicada em cada item.
+> Original: [ES2-UFPI/FitoSfera](https://github.com/ES2-UFPI/FitoSfera)
+
+### Equipe
+
+| Integrante | GitHub |
+|---|---|
+| Felipe Gabriel | [@Sava8sava](https://github.com/Sava8sava) |
+| Gabriel Araújo | [@Gab-AR](https://github.com/Gab-AR) |
+| Lucas Vilarinho | [@lucasvilari](https://github.com/lucasvilari) |
+| Matheus Carneiro | [@M4th3us78](https://github.com/M4th3us78) |
+
 ## Tecnologias
 
 React Native e Expo (Expo Router), TypeScript, Jest e Testing Library. O código segue camadas
