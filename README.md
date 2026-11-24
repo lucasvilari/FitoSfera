@@ -1,20 +1,15 @@
-<p align="center">
-  <img src="assets/readme/logo.png" alt="Logo do FitoSfera" width="220" />
-</p>
-
 # FitoSfera 🌿
 
 Monitoramento inteligente de plantas por área — temperatura, umidade do ar e luminosidade, em qualquer ambiente.
-
-<p align="center">
-  <img src="assets/readme/estante.png" alt="Estante principal do app FitoSfera, com as plantas do jardim e o status de cada uma" width="300" />
-</p>
+  <img src="assets/readme/logo.png" alt="Logo do FitoSfera" width="220" />
 
 ## Sobre o projeto
 
 Cuidar de plantas costuma ser um palpite: "será que aqui bate sol demais?", "o ar está seco para esta
 espécie?", entre outros. O FitoSfera troca o palpite por dados, lendo as condições do ambiente onde cada planta
 está, comparando com a faixa ideal da espécie e avisa quando algo sai do esperado.
+
+<img src="assets/readme/estante.png" alt="Estante principal do app FitoSfera, com as plantas do jardim e o status de cada uma" width="300" />
 
 Principais recursos:
 
