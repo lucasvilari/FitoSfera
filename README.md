@@ -41,10 +41,21 @@ metodologia ágil: histórias de usuário, sprints e Definition of Done.
 
 > [!NOTE]
 > Este repositório é uma **cópia do projeto original**, criado na organização
-> [ES2-UFPI](https://github.com/ES2-UFPI) da disciplina. O histórico de commits, as branches, as tags e a wiki
-> são os originais. Issues, pull requests e releases foram recriados a partir do original, com a mesma numeração
-> e com a autoria indicada em cada item.
+> [ES2-UFPI](https://github.com/ES2-UFPI) da disciplina, trazida para cá com o código final, a wiki e a
+> documentação, para que o projeto possa ser estudado e reproduzido.
 > Original: [ES2-UFPI/FitoSfera](https://github.com/ES2-UFPI/FitoSfera)
+
+<details>
+<summary><b>Como esta cópia foi feita</b></summary>
+
+- **Código e histórico**: espelho do Git original (`git clone --mirror`), enviado com todos os commits, autores e
+  datas, além das branches `dev` e `main` e das tags `v0.1.0`, `v0.2.0` e `v1.0.0`.
+- **Wiki**: espelho do repositório Git da wiki (visão geral, módulos, implantação, tutoriais e planejamento),
+  com os links ajustados para este repositório.
+- **Gestão do desenvolvimento** (issues, pull requests, sprints e backlog): continua no
+  [repositório original](https://github.com/ES2-UFPI/FitoSfera).
+
+</details>
 
 ### Equipe
 
